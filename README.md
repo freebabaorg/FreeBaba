@@ -44,7 +44,7 @@ node --version
 ### Step one
 
 ```
-git clone https://github.com/broeker/spacebook
+git clone https://github.com/freebabaorg/FreeBaba
 ```
 
 ### Step two
