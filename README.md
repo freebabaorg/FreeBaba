@@ -56,7 +56,7 @@ cd spacebook
 
 npm install
 
-npm run build (only necessary the first time!)
+npm run build
 ```
 
 _If you get errors here, double check your node version!_
